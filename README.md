@@ -21,7 +21,7 @@ Cloud DevOps.
 
 **A few projects worth checking out:**
 -  [`atm-management-system`](https://github.com/nikospanagopoulos/atm-management-system) — terminal-based banking system in C
--  [`ascii-art-web-export-file`](https://github.com/nikospanagopoulos/ascii-art-web) — Go web server, Docker, team project
+-  [`ascii-art-web`](https://github.com/nikospanagopoulos/ascii-art-web) — Go web server, Docker, team project
 -  [`sudoku-solver`](https://github.com/nikospanagopoulos/sudoku-solver) — backtracking solver in Go
 -  [`guess-it`](https://github.com/nikospanagopoulos/guess-it) — number prediction using linear regression
 
