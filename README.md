@@ -20,9 +20,9 @@ Cloud DevOps.
 **Currently working with:** Go · C · SQL · Docker · Linux
 
 **A few projects worth checking out:**
-- 🏦 [`atm-management-system`](https://github.com/nikospanagopoulos/atm-management-system) — terminal-based banking system in C
-- 🎨 [`ascii-art-web-export-file`](https://github.com/nikospanagopoulos/ascii-art-web-export-file) — Go web server, Docker, team project
-- 🧩 [`sudoku-solver`](https://github.com/nikospanagopoulos/sudoku-solver) — backtracking solver in Go
-- 📈 [`guess-it`](https://github.com/nikospanagopoulos/guess-it) — number prediction using linear regression
+-  [`atm-management-system`](https://github.com/nikospanagopoulos/atm-management-system) — terminal-based banking system in C
+-  [`ascii-art-web-export-file`](https://github.com/nikospanagopoulos/ascii-art-web) — Go web server, Docker, team project
+-  [`sudoku-solver`](https://github.com/nikospanagopoulos/sudoku-solver) — backtracking solver in Go
+-  [`guess-it`](https://github.com/nikospanagopoulos/guess-it) — number prediction using linear regression
 
-📫 Reach me on [LinkedIn](#) *(coming soon)*
+ Reach me on [LinkedIn](#) *(coming soon)*
