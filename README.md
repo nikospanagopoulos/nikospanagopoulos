@@ -23,7 +23,6 @@ Cloud DevOps.
 -  [`atm-management-system`](https://github.com/nikospanagopoulos/atm-management-system) — terminal-based banking system in C
 -  [`ascii-art-web`](https://github.com/nikospanagopoulos/ascii-art-web) — Go web server, Docker, team project
 -  [`sudoku-solver`](https://github.com/nikospanagopoulos/sudoku-solver) — backtracking solver in Go
--  [`guess-it`](https://github.com/nikospanagopoulos/guess-it) — number prediction using linear regression
 -  [`groupie-tracker`](https://github.com/nikospanagopoulos/groupie-tracker)` — Go web app with live search, instant filters and animated tour maps, deployed on Render
 
  Reach me on [LinkedIn](#) *(coming soon)*
