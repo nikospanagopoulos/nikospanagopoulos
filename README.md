@@ -25,4 +25,4 @@ Cloud DevOps.
 -  [`sudoku-solver`](https://github.com/nikospanagopoulos/sudoku-solver) — backtracking solver in Go
 -  [`groupie-tracker`](https://github.com/nikospanagopoulos/groupie-tracker)` — Go web app with live search, instant filters and animated tour maps, deployed on Render
 
- Reach me on [LinkedIn](#) *(coming soon)*
+ Reach me on [LinkedIn](#)
