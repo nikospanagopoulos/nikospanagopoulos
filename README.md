@@ -23,6 +23,6 @@ Cloud DevOps.
 -  [`atm-management-system`](https://github.com/nikospanagopoulos/atm-management-system) — terminal-based banking system in C
 -  [`ascii-art-web`](https://github.com/nikospanagopoulos/ascii-art-web) — Go web server, Docker, team project
 -  [`lem-in`](https://github.com/nikospanagopoulos/lem-in) — ant colony solver in Go that finds the fewest possible turns with min-cost flow, plus an animated browser visualizer.
--  [`groupie-tracker`](https://github.com/nikospanagopoulos/groupie-tracker)` — Go web app with live search, instant filters and animated tour maps, deployed on Render
+-  [`groupie-tracker`](https://github.com/nikospanagopoulos/groupie-tracker) — Go web app with live search, instant filters and animated tour maps, deployed on Render
 
  Reach me on [LinkedIn](#)
